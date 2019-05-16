@@ -3,6 +3,7 @@ Teaching materials for 070307 KU Course - Open Research/Science for digital huma
 
 ## Useful Links
 ### Git:
+* Git Handbook: https://guides.github.com/introduction/git-handbook/
 * GitHub Desktop: https://desktop.github.com/
 * GitHub Desktop Documentation: https://help.github.com/en/desktop/contributing-to-projects
 * Git SCM Download: https://git-scm.com/download
