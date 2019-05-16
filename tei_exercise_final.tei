@@ -1,280 +1,161 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
 <TEI.2 lang="en">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>The Roman Poets of the Augustan Age: Virgil</title>
-                <author><name reg="Sellar, William Young">W. Y. Sellar</name></author>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Project Gutenberg</publisher>
-                <date value="2010-10-29">October 29, 2010</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p><bibl><author><name reg="Sellar, William Young">W. Y. Sellar</name></author>
-                    <title>The Roman Poets of the Augustan Age: Virgil</title>
-                    <edition>Third edition</edition>
-                    <imprint>
-                      <pubPlace>Oxford</pubPlace>
-                      <publisher>Oxford</publisher>
-                    </imprint>
-                  </bibl>
-                </p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language id="en">English</language>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text lang="en">
-        <body rend="page-break-before: always">
-            <pb n="1"/>
-            <anchor id="Pg1"/>
-            <head>THE ROMAN POETS OF THE AUGUSTAN AGE</head>
-            <div type="chapter" n="1">
-                <index index="toc"/><index index="pdf" level1="CHAPTER I. General Introduction"/>
-                <head>CHAPTER I.</head>
-                <head type="sub"><hi rend="smallcaps">General Introduction.</hi></head>
-                <div type="section" n="1">
-                    <index index="toc"/>
-                    <index index="pdf" level1="I. Relation of the Augustan Age to other Literary Epochs"/>
-                    <head>I.</head>
-                    <p> The Augustan Age, regarded as a critical epoch in the history of the world,
-                        extends from the date of the battle of Actium, when Octavianus became
-                        undisputed master of the world, to his death in the year 14 <hi rend="font-size: 75%">A.D.</hi> But the age known by that name as a great
-                        epoch in the history of literature begins some years earlier, and ends with
-                        the death of Livy and Ovid in the third year of the following reign. Of the
-                        poets belonging to that age whose writings have reached modern
-                        times—Virgil, Horace, Tibullus, Propertius, and Ovid—all were born, and
-                        some had reached manhood, before the final overthrow of the Republic at the
-                        battle of Philippi. The earlier poems of Virgil and Horace belong to the
-                        period between that date and the establishment of the Empire. The age of the
-                        Augustan poets may accordingly be regarded as extending from about the death
-                        of Julius Caesar in 44 <hi rend="font-size: 75%">B.C.</hi> to the death of Ovid
-                        17 <hi rend="font-size: 75%">A.D.</hi>
-                    </p>
-                    <p> The whole of this period was one of great literary activity, especially in
-                        the department of poetry. Besides the writers just mentioned, several others
-                        were recognised by their contemporaries as poets of high excellence, though
-                        there is no reason to doubt that the works which have reached our time were
-                        the <pb n="2"/><anchor id="Pg2"/>most distinguished by original genius
-                        and finished execution. These works, though differing much in spirit and
-                        character as well as in value, have some common characteristics which mark
-                        them off from the literature of the Republic. It seems remarkable, if we
-                        consider the short interval which divides the Ciceronian from the Augustan
-                        Age, and the enthusiasm with which poetry was cultivated by the younger
-                        generation in the years immediately preceding the battle of Pharsalia, that
-                        so few of the poets eminent in that generation lived on into the new era.
-                        The insignificant name of Helvius Cinna is almost the only poetic link
-                        between the age of Catullus and the age of Virgil.<note place="foot">Eclog.
-                            ix. 35.</note> Perhaps, also, the Quintilius whose death Horace laments
-                        in the twenty-fourth Ode of Book I. may be the Varus of the tenth poem of
-                        Catullus. The more famous name of Asinius Pollio also connects the two eras;
-                        but in Catullus he is spoken of, not as a poet, but simply as ‘a youth of
-                        wit and graceful accomplishments<note place="foot">
-                            <lg>
-                                <!-- poem -->
-                                <l rend="margin-left: 9">‘Leporum</l>
-                                <l>Disertus puer ac facetiarum.’ Catullus xii. 8.</l>
-                                <!-- poem -->
-                            </lg>
-                        </note>,’ and in his later career he was more distinguished as a soldier,
-                        statesman, and orator than as a poet<note place="foot">The name of Trebatius
-                            also, though one associated with law rather than literature, may be
-                            added as a connecting link between the friends of Cicero and of
-                        Horace.</note>. It is remarked by Mr. Munro that there are indications that
-                        the new generation of poets would have come into painful collision with
-                        those of the preceding generation had their lives been prolonged<note place="foot">Munro’s Lucretius, Introduction to Notes, ii. page
-                        305.</note>. This spirit of hostility appears in the somewhat contemptuous
-                        notice of Calvus and Catullus in the Satires of Horace:—
-                    </p>
-                    <lg>
-                        <!-- poem -->
-                        <l rend="margin-left: 13">Quos neque pulcher</l>
-                        <l>Hermogenes unquam legit, neque simius iste</l>
-                        <l>Nil praeter Calvum et doctus cantare Catullum<note place="foot">‘These
-                                writers your fine Hermogenes never reads, nor that ape, whose whole
-                                art is to repeat the songs of Calvus and Catullus.’ Hor. Sat. i. 10.
-                                17–19.</note><anchor id="corr002"/><corr sic="period missing in scan">.</corr></l>
-                        <!-- poem -->
-                    </lg>
-                    <p> But it is rather in their political feelings and relations, and in the views
-                        of life arising out of these, than in the principles and practice of their
-                        art, that the new poets are separated from, and <pb n="3"/><anchor id="Pg3"/>antagonistic to, the old. Had Calvus and Catullus survived
-                        the extinction of liberty, it would have been impossible for them to have
-                        adopted the tone of the poets of the following age. By birth, position, and
-                        all their associations and sympathies, they belonged to the Senatorian
-                        party. If they could have yielded an outward submission to the ascendency of
-                        Julius Caesar and Augustus, they never could have become sincerely
-                        reconciled to the new order of things, nor could they have employed their
-                        art to promote the ideas of the Empire. On the other hand, L. Varius, the
-                        oldest among the poets of the new era, seems first to have become famous by
-                        a poem on the death of Julius Caesar. Virgil, in the poem placed first in
-                        order among his acknowledged works, speaks of Octavianus in language which
-                        no poet of the preceding generation could have applied to a living
-                        contemporary: ‘O Meliboeus, it was a God that gave to me this life of ease.’
-                        In the Georgics, planned, and, for the most part, composed before the
-                        establishment of the monarchy, the person of Caesar is introduced, not only
-                        as the centre of power in the world, but as an object of religious
-                        veneration; and the national and ethical teaching of that poem is entirely
-                        in harmony with the objects of his policy. And, although Horace in the
-                        Satires and Epodes, composed between the years 40 and 30 <hi rend="font-size: 75%">B.C.</hi>, is so far
-                        true to the cause of his youth as to abstain from any direct declaration of
-                        adherence to the winning side, yet he attributes to his adviser Trebatius
-                        the counsel ‘to celebrate the exploits of the invincible Caesar<note place="foot">Hor. Sat. ii. 1. 11.</note>;’ and his whole relation to
-                        Maecenas is one of the most characteristic marks of the position in which
-                        the new literature stood to the State and to its leading men.
-                    </p>
-                    <p> Yet, while separated from the literature of the Republic in many of its
-                        ideas, and in the personal and political feelings on which it is founded,
-                        the poetry of the Augustan Age is, in form and execution, the mature
-                        development of the efforts of the previous centuries. Much of its literary
-                        inspiration is derived from the age immediately preceding it, and from still
-                        older <pb n="4"/><anchor id="Pg4"/>native sources. The thought of
-                        Lucretius acted upon the mind of Virgil through the force both of sympathy
-                        and antagonism, as a strong original nature acts upon one which is at once
-                        receptive of influence and possessed of firm convictions of its own. The
-                        national sentiment of Ennius and the censorious spirit of Lucilius
-                        reappeared in new forms in the Augustan poetry; while the more humane and
-                        social feelings, and the enjoyment of beauty in Nature and art, fostered by
-                        Greek studies, as well as the taste for less elevated pleasures, stimulated
-                        by the life of a luxurious capital, are elements which the poetry of the
-                        early Empire has in common with that of the last years of the Republic.
-                    </p>
-                    <p> But the poetry of the new era has also certain marked characteristics, the
-                        result not so much of antecedent as of concomitant circumstances, which
-                        proclaim its affinity with great literary epochs of other nations rather
-                        than with any period of the national literature. By Voltaire the Augustan
-                        Age at Rome is ranked with the Age of Pericles at Athens, that of Lorenzo de
-                        Medici at Florence, and that of Louis XIV. in France, as one of four epochs
-                        in which arts and letters attained their highest perfection. The affinity
-                        between the Augustan Age and those of Pericles and Lorenzo is more
-                        superficial than real. They were all indeed periods in which the cultivation
-                        of the arts to the highest degree of perfection was fostered by the
-                        enlightened patronage of the eminent men who have given their name to their
-                        eras. But the position of Augustus, as an absolute ruler, acted more
-                        directly and potently, as a modifying and restraining power, on the thoughts
-                        and feelings expressed in his age, than that of the leading men of a
-                        republic; and the unique position of Rome as the mistress and lawgiver of
-                        the civilised world gives to the literature of the Augustan Age an imperial
-                        character and interest, which the national literature of no other city or
-                        country, even though superior in other respects, can possess. Those who
-                        regard all Latin poetry as exotic and imitative have, with some
-                        plausibility, attempted to establish a parallel between the Alexandrine <pb n="5"/><anchor id="Pg5"/>poetry of the third century <hi rend="font-size: 75%">B.C.</hi> and that
-                        of the Augustan Age. Nor can it be denied that the relation of the Augustan
-                        poets to the Emperor was somewhat parallel to that of the scholars and poets
-                        of Alexandria to the Ptolemies. The Alexandrine science and literature were
-                        also important factors in Roman culture; and the most eminent poets both of
-                        the Augustan Age and of that immediately preceding it, with the exception of
-                        Horace and Lucretius, acknowledged, in the form as well as the materials of
-                        their art, the influence of this latest development of Greek poetry. The
-                        nature and amount of the debt incurred to the learned school of Alexandria
-                        will be considered later, and it will be seen that it does not seriously
-                        affect the originality of the best Roman writers. The age of Queen Anne and
-                        of the first George, again, has been called the Augustan Age of English
-                        literature. The parallel between the two eras consists in the relation which
-                        poets and writers held to men eminent in the State, and also in the finished
-                        execution and moderation of tone common to both. The writers of England in
-                        our Augustan Age had the advantage over those of Rome in the freedom with
-                        which they could express their thoughts; but, even with this advantage, and
-                        with the still greater advantage that the English race, in the long course
-                        of its literary annals, has given proof of a richer poetical faculty than
-                        any other race except the Hellenic, the blindest national partiality would
-                        scarcely claim as general and as durable an interest for any poetical work
-                        of that era as that claimed for the Georgics and Aeneid of Virgil and for
-                        the Odes and Epistles of Horace.
-                    </p>
-                    <p> On the whole the closest parallel, in respect not so much of the substance
-                        and form of composition as of the circumstances and conditions affecting the
-                        lives and tastes of poets and men of letters, is to be sought in the age of
-                        Louis XIV. of France. The position and the policy of Augustus and of Louis
-                        XIV. were alike in some important features. As absolute rulers, the one over
-                        a great empire, the other over the most powerful and enlightened nation then
-                        existing, they each played the most <pb n="6"/><anchor id="Pg6"/>prominent part in history during more than half a century. They were each
-                        animated by a strong passion for national and personal glory, and encouraged
-                        art and literature, not merely as a source of refined pleasure congenial to
-                        their own tastes, but as the chief ornament of their reigns, and as
-                        important instruments of their policy.
-                    </p>
-                    <p> And not only the political but the purely literary conditions of the two
-                        epochs were in some respects parallel. They were both times, not of growth,
-                        but of maturity; not so much of the spontaneous inspiration of genius, as of
-                        systematic effort directed in accordance with the principles of art and the
-                        careful study of ancient models. In each time circumstances and mutual
-                        sympathies brought men of letters into close and familiar contact both with
-                        one another and with men of affairs and of social eminence. And, while the
-                        relation of patronage to literature is not in any circumstances favourable
-                        to original invention, and though, except under most advantageous
-                        conditions, its tendency is to produce a tameness of spirit, or even an
-                        insincerity of tone, yet it has its compensating advantages. It imparts to
-                        literature the tone of the world—of the world not only of social eminence,
-                        but of practical experience and conversance with great affairs. The good
-                        taste, judgment, and moderation of tone which have enabled the Augustan
-                        literature to stand successfully the criticism of nineteen centuries, as
-                        well as its deficiency in the highest creative power, when compared with
-                        such eras as the Homeric Age, the Age of Pericles, and the Elizabethan Age
-                        in England, mark the limits of the good influence which this relation
-                        between the great in worldly station and the great in genius can exercise on
-                        literature.
-                    </p>
-                    <p> A further parallel might be drawn between the material conditions of the
-                        Augustan Age and those of the Age of Louis XIV. The aspect which the world
-                        they lived in presented to the writers of the two eras was that of a rich,
-                        luxurious, pleasure-loving city, the capital of a great empire or kingdom.
-                        And this aspect of the world acts upon the susceptible nature of the poet
-                        with both an attractive and a repellent force. He <pb n="7"/><anchor id="Pg7"/>may feel the spell of outward pomp and magnificence and the
-                        attractions of pleasure; or he may be driven back on his own thought, and
-                        into communion with Nature, and to an ideal longing for simpler and purer
-                        conditions.
-                    </p>
-                    <p> But, instead of tracing these resemblances further, it is more important to
-                        observe that, though the outward influences acting upon the poets of the two
-                        eras were in many respects parallel, yet in form and substance the poetry of
-                        the Augustan Age is quite different from that of the Age of Louis XIV.
-                        However striking the parallel between any two periods of history may at
-                        first sight appear, the points of difference between them must be much more
-                        numerous than those of agreement: and, though outward conditions have a
-                        modifying influence upon national temperament and individual genius, yet
-                        these last are much the most important factors in the creative literature of
-                        any age. The genius of ancient Italy was, in point of imaginative
-                        susceptibility, very different from that of modern France; and, though his
-                        countrymen recognise in Racine a moral affinity with Virgil, yet the works
-                        these poets have left to the world are as different as they well can be, in
-                        form, purpose, and character. The conditions indicated in the comparison
-                        between the two periods are to be studied as modifying, not as productive,
-                        influences. The forms which the highest spiritual life in an age or an
-                        individual assumes, the power of free and happy development which it
-                        obtains, or the limitations to which it has to submit, can, to a very
-                        considerable extent, be explained by reference, in the case of nations, to
-                        the political, social, and material circumstances of the age, and, in the
-                        case of the individual, to his early life and environment, his education and
-                        personal fortunes. But the quality and intensity of that spiritual force
-                        which manifests itself from time to time in the world, giving a new impulse
-                        to thought, a new direction to feeling, and a new delight to life, are not
-                        to be explained by any combination of circumstances. Yet, just as it is
-                        desirable to realise all that can be known of the life and fortunes of an
-                        individual poet before endeavouring to extract from his various <pb n="8"/><anchor id="Pg8"/>works the secret of his power and charm, so it is
-                        desirable, before entering on a separate study of the various books which
-                        constitute the literature of any age, to take a general survey of the most
-                        important conditions affecting the lives, thoughts, and art of all who lived
-                        and wrote in that age. In the Augustan Age these conditions may be
-                        classified under four heads: (1) the political circumstances of the Empire
-                        and the state of moral and religious feeling resulting from them; (2) the
-                        social relation of men of letters to men eminent in the State; (3) the
-                        wealth, luxury, and outward splendour which met the eye and gratified the
-                        senses, in the great city itself, and in the villas scattered over the
-                        shores and inland scenes of central Italy; (4) the intellectual culture
-                        inherited from the preceding age and modified by the tastes and conditions
-                        of the new generation. These will be reviewed as conditions acting on the
-                        imagination, and forming the intellectual atmosphere in the midst of which
-                        the productions of poetical genius expanded into various shapes and
-                        dimensions of beauty and stateliness.
-                    </p>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Roman Poets of the Augustan Age: Virgil</title>
+        <author>
+          <name reg="Sellar, William Young">W. Y. Sellar</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project Gutenberg</publisher>
+        <date value="2010-10-29">October 29, 2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <bibl>
+            <author>
+              <name reg="Sellar, William Young">W. Y. Sellar</name>
+            </author>
+            <title>The Roman Poets of the Augustan Age: Virgil</title>
+            <edition>Third edition</edition>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford</publisher>
+            </imprint>
+          </bibl>
+        </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="en">English</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text lang="en">
+    <body rend="page-break-before: always">
+      <pb n="1"/>
+      <anchor id="Pg1"/>
+      <head>THE ROMAN POETS OF THE AUGUSTAN AGE</head>
+      <div type="chapter" n="1">
+        <index index="toc"/><index index="pdf" level1="CHAPTER I. General Introduction"/>
+        <head>CHAPTER I.</head>
+        <head type="sub">
+          <hi rend="smallcaps">General Introduction.</hi>
+        </head>
+        <div type="section" n="1">
+          <index index="toc"/>
+          <index index="pdf" level1="I. Relation of the Augustan Age to other Literary Epochs"/>
+          <head>I.</head>
+          <p>
+            The Augustan Age, regarded as a critical epoch in the history of the world, extends from the date of the battle of Actium, when Octavianus became undisputed master of the world, to his death in the year 14
+            <hi rend="font-size: 75%">A.D.</hi>
+            But the age known by that name as a great epoch in the history of literature begins some years earlier, and ends with the death of Livy and Ovid in the third year of the following reign. Of the poets belonging to that age whose writings have reached
+            modern times—Virgil, Horace, Tibullus, Propertius, and Ovid—all were born, and some had reached manhood, before the final overthrow of the Republic at the battle of Philippi. The earlier poems of Virgil and Horace belong to the period between that
+            date and the establishment of the Empire. The age of the Augustan poets may accordingly be regarded as extending from about the death of Julius Caesar in 44
+            <hi rend="font-size: 75%">B.C.</hi>
+            to the death of Ovid 17
+            <hi rend="font-size: 75%">A.D.</hi>
+          </p>
+          <p>
+            The whole of this period was one of great literary activity, especially in the department of poetry. Besides the writers just mentioned, several others were recognised by their contemporaries as poets of high excellence, though there is no reason to
+            doubt that the works which have reached our time were the
+            <pb n="2"/><anchor id="Pg2"/>most distinguished by original genius and finished execution. These works, though differing much in spirit and character as well as in value, have some common characteristics which mark them off from the literature of the
+              Republic. It seems remarkable, if we consider the short interval which divides the Ciceronian from the Augustan Age, and the enthusiasm with which poetry was cultivated by the younger generation in the years immediately preceding the battle of
+              Pharsalia, that so few of the poets eminent in that generation lived on into the new era. The insignificant name of Helvius Cinna is almost the only poetic link between the age of Catullus and the age of Virgil.<note place="foot">Eclog. ix. 35.</note>
+            Perhaps, also, the Quintilius whose death Horace laments in the twenty-fourth Ode of Book I. may be the Varus of the tenth poem of Catullus. The more famous name of Asinius Pollio also connects the two eras; but in Catullus he is spoken of, not as a
+            poet, but simply as ‘a youth of wit and graceful accomplishments<note place="foot">
+              <lg>
+                <!-- poem -->
+                <l rend="margin-left: 9">‘Leporum</l>
+                <l>Disertus puer ac facetiarum.’ Catullus xii. 8.</l>
+                <!-- poem -->
+              </lg>
+            </note>,’ and in his later career he was more distinguished as a soldier, statesman, and orator than as a poet<note place="foot">The name of Trebatius also, though one associated with law rather than literature, may be added as a connecting link between the friends of Cicero and of Horace.</note>. It is remarked by Mr. Munro that there are indications that the new generation of poets would have come into painful collision with those of the preceding generation had their lives been prolonged<note place="foot">Munro’s Lucretius, Introduction to Notes, ii. page 305.</note>. This spirit of hostility appears in the somewhat contemptuous notice of Calvus and Catullus in the Satires of Horace:—
+          </p>
+          <lg>
+            <!-- poem -->
+            <l rend="margin-left: 13">Quos neque pulcher</l>
+            <l>Hermogenes unquam legit, neque simius iste</l>
+            <l>Nil praeter Calvum et doctus cantare Catullum<note place="foot">‘These writers your fine Hermogenes never reads, nor that ape, whose whole art is to repeat the songs of Calvus and Catullus.’ Hor. Sat. i. 10. 17–19.</note><anchor id="corr002"/>
+              <corr sic="period missing in scan">.</corr>
+            </l>
+            <!-- poem -->
+          </lg>
+          <p>
+            But it is rather in their political feelings and relations, and in the views of life arising out of these, than in the principles and practice of their art, that the new poets are separated from, and
+            <pb n="3"/><anchor id="Pg3"/>antagonistic to, the old. Had Calvus and Catullus survived the extinction of liberty, it would have been impossible for them to have adopted the tone of the poets of the following age. By birth, position, and all their
+              associations and sympathies, they belonged to the Senatorian party. If they could have yielded an outward submission to the ascendency of Julius Caesar and Augustus, they never could have become sincerely reconciled to the new order of things, nor
+              could they have employed their art to promote the ideas of the Empire. On the other hand, L. Varius, the oldest among the poets of the new era, seems first to have become famous by a poem on the death of Julius Caesar. Virgil, in the poem placed
+              first in order among his acknowledged works, speaks of Octavianus in language which no poet of the preceding generation could have applied to a living contemporary: ‘O Meliboeus, it was a God that gave to me this life of ease.’ In the Georgics,
+              planned, and, for the most part, composed before the establishment of the monarchy, the person of Caesar is introduced, not only as the centre of power in the world, but as an object of religious veneration; and the national and ethical teaching of
+              that poem is entirely in harmony with the objects of his policy. And, although Horace in the Satires and Epodes, composed between the years 40 and 30
+            <hi rend="font-size: 75%">B.C.</hi>, is so far true to the cause of his youth as to abstain from any direct declaration of adherence to the winning side, yet he attributes to his adviser Trebatius the counsel ‘to celebrate the exploits of the invincible Caesar<note place="foot">Hor. Sat. ii. 1. 11.</note>;’ and his whole relation to Maecenas is one of the most characteristic marks of the position in which the new literature stood to the State and to its leading men.
+          </p>
+          <p>
+            Yet, while separated from the literature of the Republic in many of its ideas, and in the personal and political feelings on which it is founded, the poetry of the Augustan Age is, in form and execution, the mature development of the efforts of the
+            previous centuries. Much of its literary inspiration is derived from the age immediately preceding it, and from still older
+            <pb n="4"/><anchor id="Pg4"/>native sources. The thought of Lucretius acted upon the mind of Virgil through the force both of sympathy and antagonism, as a strong original nature acts upon one which is at once receptive of influence and possessed of
+              firm convictions of its own. The national sentiment of Ennius and the censorious spirit of Lucilius reappeared in new forms in the Augustan poetry; while the more humane and social feelings, and the enjoyment of beauty in Nature and art, fostered by
+              Greek studies, as well as the taste for less elevated pleasures, stimulated by the life of a luxurious capital, are elements which the poetry of the early Empire has in common with that of the last years of the Republic.
+          </p>
+          <p>
+            But the poetry of the new era has also certain marked characteristics, the result not so much of antecedent as of concomitant circumstances, which proclaim its affinity with great literary epochs of other nations rather than with any period of the
+            national literature. By Voltaire the Augustan Age at Rome is ranked with the Age of Pericles at Athens, that of Lorenzo de Medici at Florence, and that of Louis XIV. in France, as one of four epochs in which arts and letters attained their highest
+            perfection. The affinity between the Augustan Age and those of Pericles and Lorenzo is more superficial than real. They were all indeed periods in which the cultivation of the arts to the highest degree of perfection was fostered by the enlightened
+            patronage of the eminent men who have given their name to their eras. But the position of Augustus, as an absolute ruler, acted more directly and potently, as a modifying and restraining power, on the thoughts and feelings expressed in his age, than
+            that of the leading men of a republic; and the unique position of Rome as the mistress and lawgiver of the civilised world gives to the literature of the Augustan Age an imperial character and interest, which the national literature of no other city
+            or country, even though superior in other respects, can possess. Those who regard all Latin poetry as exotic and imitative have, with some plausibility, attempted to establish a parallel between the Alexandrine
+            <pb n="5"/><anchor id="Pg5"/>poetry of the third century
+            <hi rend="font-size: 75%">B.C.</hi>
+            and that of the Augustan Age. Nor can it be denied that the relation of the Augustan poets to the Emperor was somewhat parallel to that of the scholars and poets of Alexandria to the Ptolemies. The Alexandrine science and literature were also
+            important factors in Roman culture; and the most eminent poets both of the Augustan Age and of that immediately preceding it, with the exception of Horace and Lucretius, acknowledged, in the form as well as the materials of their art, the influence
+            of this latest development of Greek poetry. The nature and amount of the debt incurred to the learned school of Alexandria will be considered later, and it will be seen that it does not seriously affect the originality of the best Roman writers. The
+            age of Queen Anne and of the first George, again, has been called the Augustan Age of English literature. The parallel between the two eras consists in the relation which poets and writers held to men eminent in the State, and also in the finished
+            execution and moderation of tone common to both. The writers of England in our Augustan Age had the advantage over those of Rome in the freedom with which they could express their thoughts; but, even with this advantage, and with the still greater
+            advantage that the English race, in the long course of its literary annals, has given proof of a richer poetical faculty than any other race except the Hellenic, the blindest national partiality would scarcely claim as general and as durable an
+            interest for any poetical work of that era as that claimed for the Georgics and Aeneid of Virgil and for the Odes and Epistles of Horace.
+          </p>
+          <p>
+            On the whole the closest parallel, in respect not so much of the substance and form of composition as of the circumstances and conditions affecting the lives and tastes of poets and men of letters, is to be sought in the age of Louis XIV. of France.
+            The position and the policy of Augustus and of Louis XIV. were alike in some important features. As absolute rulers, the one over a great empire, the other over the most powerful and enlightened nation then existing, they each played the most
+            <pb n="6"/><anchor id="Pg6"/>prominent part in history during more than half a century. They were each animated by a strong passion for national and personal glory, and encouraged art and literature, not merely as a source of refined pleasure
+              congenial to their own tastes, but as the chief ornament of their reigns, and as important instruments of their policy.
+          </p>
+          <p>
+            And not only the political but the purely literary conditions of the two epochs were in some respects parallel. They were both times, not of growth, but of maturity; not so much of the spontaneous inspiration of genius, as of systematic effort
+            directed in accordance with the principles of art and the careful study of ancient models. In each time circumstances and mutual sympathies brought men of letters into close and familiar contact both with one another and with men of affairs and of
+            social eminence. And, while the relation of patronage to literature is not in any circumstances favourable to original invention, and though, except under most advantageous conditions, its tendency is to produce a tameness of spirit, or even an
+            insincerity of tone, yet it has its compensating advantages. It imparts to literature the tone of the world—of the world not only of social eminence, but of practical experience and conversance with great affairs. The good taste, judgment, and
+            moderation of tone which have enabled the Augustan literature to stand successfully the criticism of nineteen centuries, as well as its deficiency in the highest creative power, when compared with such eras as the Homeric Age, the Age of Pericles,
+            and the Elizabethan Age in England, mark the limits of the good influence which this relation between the great in worldly station and the great in genius can exercise on literature.
+          </p>
+          <p>
+            A further parallel might be drawn between the material conditions of the Augustan Age and those of the Age of Louis XIV. The aspect which the world they lived in presented to the writers of the two eras was that of a rich, luxurious, pleasure-loving
+            city, the capital of a great empire or kingdom. And this aspect of the world acts upon the susceptible nature of the poet with both an attractive and a repellent force. He
+            <pb n="7"/><anchor id="Pg7"/>may feel the spell of outward pomp and magnificence and the attractions of pleasure; or he may be driven back on his own thought, and into communion with Nature, and to an ideal longing for simpler and purer conditions.
+          </p>
+          <p>
+            But, instead of tracing these resemblances further, it is more important to observe that, though the outward influences acting upon the poets of the two eras were in many respects parallel, yet in form and substance the poetry of the Augustan Age is
+            quite different from that of the Age of Louis XIV. However striking the parallel between any two periods of history may at first sight appear, the points of difference between them must be much more numerous than those of agreement: and, though
+            outward conditions have a modifying influence upon national temperament and individual genius, yet these last are much the most important factors in the creative literature of any age. The genius of ancient Italy was, in point of imaginative
+            susceptibility, very different from that of modern France; and, though his countrymen recognise in Racine a moral affinity with Virgil, yet the works these poets have left to the world are as different as they well can be, in form, purpose, and
+            character. The conditions indicated in the comparison between the two periods are to be studied as modifying, not as productive, influences. The forms which the highest spiritual life in an age or an individual assumes, the power of free and happy
+            development which it obtains, or the limitations to which it has to submit, can, to a very considerable extent, be explained by reference, in the case of nations, to the political, social, and material circumstances of the age, and, in the case of
+            the individual, to his early life and environment, his education and personal fortunes. But the quality and intensity of that spiritual force which manifests itself from time to time in the world, giving a new impulse to thought, a new direction to
+            feeling, and a new delight to life, are not to be explained by any combination of circumstances. Yet, just as it is desirable to realise all that can be known of the life and fortunes of an individual poet before endeavouring to extract from his
+            various
+            <pb n="8"/><anchor id="Pg8"/>works the secret of his power and charm, so it is desirable, before entering on a separate study of the various books which constitute the literature of any age, to take a general survey of the most important conditions
+              affecting the lives, thoughts, and art of all who lived and wrote in that age. In the Augustan Age these conditions may be classified under four heads: (1) the political circumstances of the Empire and the state of moral and religious feeling
+              resulting from them; (2) the social relation of men of letters to men eminent in the State; (3) the wealth, luxury, and outward splendour which met the eye and gratified the senses, in the great city itself, and in the villas scattered over the
+              shores and inland scenes of central Italy; (4) the intellectual culture inherited from the preceding age and modified by the tastes and conditions of the new generation. These will be reviewed as conditions acting on the imagination, and forming the
+              intellectual atmosphere in the midst of which the productions of poetical genius expanded into various shapes and dimensions of beauty and stateliness.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI.2>
